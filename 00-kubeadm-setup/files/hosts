@@ -1,0 +1,5 @@
+# /etc/hosts
+# k8s Tests
+172.27.0.100	master	k8s-cluster
+172.27.0.101	node1
+172.27.0.102	node2
